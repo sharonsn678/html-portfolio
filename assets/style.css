@@ -21,6 +21,10 @@ p{
     color:darkslategray
 }
 
+li{
+  display: inline;
+}
+
 img{
   float:right;
   vertical-align:text-bottom;
