@@ -25,9 +25,14 @@ li{
   display: inline;
 }
 
-img{
+.icon{
   float:right;
   vertical-align:text-bottom;
   border-radius: 50%;
+}
+
+.me{
+  border-radius: 5%;
+  transform: scale(0.8, 0.8);
 }
 
